@@ -14,3 +14,6 @@
 
 ## IAM 
 * Assume Role for Lambda to push logs to Cloud Watch.
+
+## Cloud Formation
+* Create the entire stack automatically. (To retore service in a separate region, in the event of a regional outage.)
