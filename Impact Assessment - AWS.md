@@ -1,6 +1,6 @@
-# Impact Assessmenmt - AWS
+# Impact Assessment - AWS
 
-## Option-A 
+## Option-A [_Preffered_]
 
 ### Stack
 * Lambda, API Gateway and Cloud Watch
