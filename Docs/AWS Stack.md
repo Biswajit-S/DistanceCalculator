@@ -1,4 +1,4 @@
-# AWS Stack Design
+# AWS Services
 
 ## Lambda
 * Lambda Funtion to accept two distance values and an unit in POST body.
@@ -17,3 +17,10 @@
 
 ## Cloud Formation
 * Create the entire stack automatically. (To retore service in a separate region, in the event of a regional outage.)
+
+## S3
+* Store the CloudFormation Template
+
+## VPC
+* For this API default VPC is being used. 
+
